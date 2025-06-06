@@ -7,3 +7,4 @@
 7. 验证模型效果，跑出recall和NDCG两个指标
 
 选做（重新训练一遍rq-vae）
+数据集下载链接：https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html
