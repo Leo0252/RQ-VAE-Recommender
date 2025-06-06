@@ -1,0 +1,9 @@
+1. 数据集下载  √
+2. 数据预处理
+3. 构建pretrain的T5模型
+4. 提取数据集数据，全部打成embedding
+5. 构建rq-vae，然后用pretrain的权重重新跑一遍，生成semantic ID。
+6. 构建T5模型，训练。
+7. 验证模型效果，跑出recall和NDCG两个指标
+
+选做（重新训练一遍rq-vae）
