@@ -8,3 +8,4 @@
 
 选做（重新训练一遍rq-vae）
 数据集下载链接：https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html
+数据预处理链接：https://github.com/RUCAIBox/CIKM2020-S3Rec
